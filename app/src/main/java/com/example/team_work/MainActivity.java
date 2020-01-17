@@ -13,6 +13,7 @@ public class MainActivity extends AppCompatActivity {
         setContentView(R.layout.activity_main);
         String a="jiojioio";
         String b="完成了在这打上名字：";
+        String c="asdda";
         Toast.makeText(MainActivity.this,a,Toast.LENGTH_SHORT).show();
     }
 }
